@@ -7,6 +7,9 @@ Run it with:
 ```powershell
 python app.py
 ```
+## Demo
+
+![Game Demo](demo.gif)
 
 Controls:
 - `WASD` or arrow keys: move
